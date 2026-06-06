@@ -330,7 +330,7 @@ st.markdown(f"""
     <div>
         <div class="lf-eyebrow">Translation Tool</div>
         <div class="lf-title">LinguaFlow</div>
-        <div class="lf-sub">CodeAlpha AI Internship · Task 1 · Powered by Google Translate</div>
+        <div class="lf-sub">Semester Project · Powered by Google Translate</div>
     </div>
     <div class="lf-lang-count">
         <strong>{len(TARGET_LANGUAGES)}+</strong>
