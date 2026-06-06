@@ -474,7 +474,7 @@ if st.session_state.history:
 # ─── Footer ───────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="lf-footer">
-    Built for <b>CodeAlpha AI Internship</b> · Task 1 – Language Translation Tool<br>
+    Built for <b>Semester</b> · Project – Language Translation Tool<br>
     Powered by Google Translate via deep-translator
 </div>
 """, unsafe_allow_html=True)
